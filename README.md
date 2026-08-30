@@ -25,7 +25,7 @@ Olá! Eu sou o Guilherme Vasconcelos, desenvolvedor Full Stack e acadêmico de E
 ### 📊 Estátisticas
 
 ![Minhas Estatísticas](./profile/stats.svg)
-![Minhas Linguagens](./profile/languages.svg)
+![Minhas Linguagens](./profile/top-langs.svg)
 
 
 
