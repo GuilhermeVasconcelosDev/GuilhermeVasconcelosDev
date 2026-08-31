@@ -4,7 +4,7 @@
 Olá! Eu sou o Guilherme Vasconcelos, desenvolvedor Full Stack e acadêmico de Engenharia de Software na Uniasselvi. Embora ainda não atue profissionalmente na área, sou completamente apaixonado por tecnologia e dedico meu dia a dia a estudar intensamente. Estou construindo minha base técnica e evoluindo minhas habilidades práticas por meio do desenvolvimento de projetos pessoais robustos e contribuindo ativamente com soluções reais para o mercado.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://instagram.com/guilhermevascdev) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/guilhermevasconcelos00)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/guilhermevasconcelos00)
 <hr style="width: 100%;">
 
 ### 💻 Linguagens e Tecnologias
